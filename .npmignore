@@ -1,0 +1,5 @@
+# ESLint configurations for this project
+eslint.config.js
+
+# Prettier configurations for this project
+.prettierrc
