@@ -1,4 +1,4 @@
-import generateJSESLintConfigurations from './javascript';
-import generateTSESLintConfigurations from './typescript';
+import generateJSESLintConfigurations from './javascript.js';
+import generateTSESLintConfigurations from './typescript.js';
 
 export { generateJSESLintConfigurations, generateTSESLintConfigurations };
