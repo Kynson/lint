@@ -1,6 +1,6 @@
 {
   "name": "@kynsonszetau/lint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lint configurations used in Kynson Szetau's projects",
   "main": "src/index.js",
   "exports": {
